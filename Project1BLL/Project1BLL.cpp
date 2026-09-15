@@ -94,7 +94,7 @@ int main()
         return 1;
     }
 
-    Model ourRTC("LR3_CG(ox1)(ox1)(ox1).obj"); 
+    Model ourRTC("LR3_CG.obj"); 
 
     GLuint vAo, vBo, Ebo;
     glGenVertexArrays(1, &vAo);
